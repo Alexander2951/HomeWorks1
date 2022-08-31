@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\polindroms.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\polindroms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\polindroms.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\polindroms.AssemblyInfo.cs
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\polindroms.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\bin\Debug\net6.0\polindroms.exe
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\bin\Debug\net6.0\polindroms.deps.json
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\bin\Debug\net6.0\polindroms.runtimeconfig.json
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\bin\Debug\net6.0\polindroms.dll
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\bin\Debug\net6.0\polindroms.pdb
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\polindroms.dll
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\refint\polindroms.dll
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\polindroms.pdb
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\polindroms.genruntimeconfig.cache
+C:\Users\Александр\Documents\myhomeworks\HomeWorks1\polindroms\obj\Debug\net6.0\ref\polindroms.dll
